@@ -11,7 +11,7 @@ This project is a static web application, meaning it runs directly in your brows
 1.  **Clone or Download** this repository to your local machine.
 2.  Locate the **`index.html`** file in the root folder.
 3.  **Double-click `index.html`** to open it in your default web browser.
-4.  Start playing! Player X begins the game.
+4.  Start playing! Player O begins the game.
 
 ---
 
