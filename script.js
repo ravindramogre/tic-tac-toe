@@ -1,11 +1,11 @@
 let player1 = {
     id: 1,
-    name: "Aanchal",
+    name: "Ram",
     score: 0,
 };
 let player2 = {
     id: 2,
-    name: "Ravindra",
+    name: "Shyam",
     score: 0,
 }
 
